@@ -1,0 +1,51 @@
+doubleClickMessage
+[ '/etc/alternatives/x-www-browser' ]|runCommandInBackground
+
+palette
+b #000022
+. #FF8800
+o #ffffff
+
+pixels
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb            
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb            
+        bbbbbbooooooooooooooooooooooooooooooooooooooobbbbbb        
+        bbbbbbooooooooooooooooooooooooooooooooooooooobbbbbb        
+    bbbbbooooooooooooooobbbbboooooooobbbbboooooooooooooooobbbbb    
+    bbbbbooooooooooooooobbbbboooooooobbbbboooooooooooooooobbbbb    
+  bbooooooooooooobbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbooooooooooooobb  
+  bbooooooooooooobbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbooooooooooooobb  
+ bboooooooooooobbbbXbbooooooooooooooooooooooobbXbbbboooooooooooobb 
+ bboooooooooooobbbbXbbooooooooooooooooooooooobbXbbbboooooooooooobb 
+bboooooobbbbbbbbXXbbboooooo.b.oo.b.oo.b.oooooobbbXXbbbbbbbboooooobb
+bboooooobbbbbbbbXXbbboooooo.b.oo.b.oo.b.oooooobbbXXbbbbbbbboooooobb
+bbbbbbbbboooooobbbbbooooooooooooooooooooooooooobbbbboooooobbbbbbbbb
+bbbbbbbbboooooobbbbbooooooooooooooooooooooooooobbbbboooooobbbbbbbbb
+ bbooooooooooooobbbooooooo.b.ooo.b.ooo.b.ooooooobbbooooooooooooobb 
+ bbooooooooooooobbbooooooo.b.ooo.b.ooo.b.ooooooobbbooooooooooooobb 
+  bboooooobbbbbbbbooooooooooooooooooooooooooooooobbbbbbbbbooooobb  
+  bboooooobbbbbbbbooooooooooooooooooooooooooooooobbbbbbbbbooooobb  
+   bbbbbbbb   bbboooooooo.b.oooo.b.oooo.b.oooooooobbb    bbbbbbb   
+   bbbbbbbb   bbboooooooo.b.oooo.b.oooo.b.oooooooobbb    bbbbbbb   
+             bbbooooooooooooooooooooooooooooooooooobbb             
+             bbbooooooooooooooooooooooooooooooooooobbb             
+             bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb             
+             bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb             
+             bbooooooooooooooooooooooooooooooooooooobb             
+             bbooooooooooooooooooooooooooooooooooooobb             
+             bbooooooooooooooooooooooooooooooooooooobb             
+             bbooooooooooooooooooooooooooooooooooooobb             
+             bbooooooooooooooooooooooooooooooooooooobb             
+             bbooooooooooooooooooooooooooooooooooooobb             
+             bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb             
+             bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb             
+               bbbb                             bbbb               
+               bbbb                             bbbb               
+  
+         oo           o                                  o
+                     oo                                 oo
+        ooo  ooooo  ooooo  oooo  ooo oo  ooooo   oooo  ooooo
+         oo  oo  oo  oo   oo  oo  ooo oo oo  oo oo  oo  oo
+         oo  oo  oo  oo   oooooo  oo  oo oo  oo oooooo  oo
+         oo  oo  oo  oo o oo      oo     oo  oo oo      oo o
+        oooo oo  oo   oo   oooo  oooo    oo  oo  oooo    oo
