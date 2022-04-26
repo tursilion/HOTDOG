@@ -2,11 +2,8 @@
 
 use strict;
 
-my $LIBOBJC = '/usr/lib/libobjc.a';
+my $LIBOBJC = '/usr/lib/gcc/x86_64-linux-gnu/9/libobjc.a';
 my $uname = `uname -a`;
-if ($uname =~ m/x86_64/) {
-    $LIBOBJC = '/usr/lib64/libobjc.a';
-}
 
 sub getExecPath
 {

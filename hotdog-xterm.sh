@@ -1,13 +1,13 @@
 #!/bin/bash
 
 if [ "x$HOTDOG_MODE" = "xamiga" ]; then
-    xterm -geometry 80x50 -bg '#0055aa' -fg white -cr '#ff8800' +bc +uc
+    xterm -cm -bg '#0055aa' -fg white -cr '#ff8800' +bc +uc
 elif [ "x$HOTDOG_MODE" = "xhotdogstand" ]; then
-    xterm -geometry 80x50 -bg '#0055aa' -fg white -cr '#ffff00' +bc +uc
+    xterm -bg '#0055aa' -fg white -cr '#ffff00' +bc +uc
 elif [ "x$HOTDOG_MODE" = "xaqua" ]; then
-    xterm -geometry 80x50 -bg black -fg white -cr '#ffff00' +bc +uc
+    xterm -bg black -fg white -cr '#ffff00' +bc +uc
 else
-    xterm -geometry 80x50 -bg white -fg black +bc +uc
+    xterm -bg white -fg black +bc +uc
 fi
 #    xterm -geometry 80x50 +bc +uc
 
