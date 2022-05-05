@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# open a file or folder as if we were windows
+if [ -d "$1" ];
+then
+  read < <( nautilus "$1" 2>&1 >/dev/null )
+else
+  read < <( xdg-open "$1" 2>&1 >/dev/null )
+fi
+
+
