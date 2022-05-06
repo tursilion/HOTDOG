@@ -285,3 +285,4 @@ NSLog(@"unable to open %@", path);
     [bitmap fillRectangleAtX:puckX-radius y:puckY-radius w:radius*2 h:radius*2];
 }
 
+@end

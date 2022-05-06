@@ -185,10 +185,6 @@ typedef struct {
 #import "HOTDOG-lib.h"
 #import "HOTDOG-objects.h"
 
-#ifdef BUILD_FOR_ANDROID
-#import "HOTDOG-android.h"
-#endif
-
 #ifdef BUILD_FOR_LINUX
 #import "HOTDOG-linux.h"
 #endif

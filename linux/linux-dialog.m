@@ -674,4 +674,4 @@ if (![Definitions confirmWithAlert:nsfmt(@"argv[%d] %s", i, argv[i])]) {
     }
     exit(-1);
 }
-
+@end

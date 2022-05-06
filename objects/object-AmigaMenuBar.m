@@ -450,6 +450,8 @@ first = NO;
                 Int4 r3 = r2;
                 r3.x += leftPadding;
                 r3.w -= leftPadding+rightPadding;
+                r3.y += 1;
+                r3.h -= 1;
                 [bitmap setColorIntR:0xff g:0x88 b:0x00 a:0xff];
                 [obj drawInBitmap:bitmap rect:r3];
             } else {

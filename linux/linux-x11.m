@@ -2384,6 +2384,15 @@ NSLog(@"rootWindow object %@", _rootWindowObject);
                 [self setValue:dict forKey:@"buttonDownDict"];
                 _buttonDownWhich = e->button;
                 if ([object respondsToSelector:@selector(handleMouseDown:)]) {
+                    if (e->state & ShiftMask) {
+                        [eventDict setValue:@"1" forKey:@"shiftKey"];
+                    }
+                    if (e->state & Mod1Mask) {
+                        [eventDict setValue:@"1" forKey:@"altKey"];
+                    }
+                    if (e->state & Mod4Mask) {
+                        [eventDict setValue:@"1" forKey:@"windowsKey"];
+                    }
                     [object handleMouseDown:eventDict];
                 }
             } else if (e->button == 3) {

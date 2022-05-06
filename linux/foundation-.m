@@ -40,12 +40,7 @@
 
 static FILE *HOTDOG_stderr = NULL;
 
-#ifdef BUILD_FOR_ANDROID
-#include <android/log.h>
-#define LOG(...) ((void)__android_log_print(ANDROID_LOG_WARN, "native-activity", __VA_ARGS__))
-#else
 #define LOG(...) ((void)fprintf(HOTDOG_stderr, __VA_ARGS__))
-#endif
 
 
 static Class __NSConstantStringClass = nil;

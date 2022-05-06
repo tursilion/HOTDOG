@@ -53,8 +53,6 @@ NSLog(@"unable to set signal handler for SIGPIPE");
 
     id pool = [[NSAutoreleasePool alloc] init];
 
-#ifdef BUILD_FOR_ANDROID
-#else
         id execDir = [Definitions execDir];
 
         /* If argv[0] contains a slash, then add the directory that the
@@ -552,29 +550,6 @@ NSLog(@"lines %@", lines);
                 [nsfmt(@"%@", object) writeToStandardOutput];
             }
         }
-#endif
-
-/*
-#ifdef BUILD_FOR_ANDROID
-#else
-        if (object == [object class]) {
-            object = [object asInstance];
-        }
-        if (isnsarr(object)) {
-            object = [object asListInterface];
-            id mainInterface = [Definitions mainInterface];
-            [mainInterface pushObject:object];
-            object = mainInterface;
-        } else if (isnsdict(object)) {
-            object = [object asKeyValueArray];
-            object = [object asListInterface];
-            id mainInterface = [Definitions mainInterface];
-            [mainInterface pushObject:object];
-            object = mainInterface;
-        }
-        [Definitions runWindowManagerForObject:object];
-#endif
-*/
 
 	[pool drain];
 
