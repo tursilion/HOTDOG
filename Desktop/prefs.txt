@@ -1,0 +1,57 @@
+doubleClickMessage
+['hotdog' 'dir' '/etc']|runCommandInBackground
+
+palette
+b #000000
+. #000022
+X #ff8800
+* #0055aa
+O #ffffff
+
+pixels
+              ...........................................................
+              ...........................................................
+          ....OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO...O.
+          ....OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO...O.
+      ....OOOOOOOOOOOOOOOOOOO..........OOOOOOOOOOOOOOOOOOOOOOOOOOO...OO..
+      ....OOOOOOOOOOOOOOOOOOO..........OOOOOOOOOOOOOOOOOOOOOOOOOOO...OO..
+   ...........................XXXXXXXX.............................OOO.O.
+   ...........................XXXXXXXX.............................OOO.O.
+   ..OOOOOOOOOOOOOOOOOOOOO..XXXXXXXXXXXX..OOOOOOOOOOOOOOOOOOOOOOO..OOOO..
+   ..OOOOOOOOOOOOOOOOOOOOO..XXXXXXXXXXXX..OOOOOOOOOOOOOOOOOOOOOOO..OOOO..
+   ..OOO...................XXXXX....XXXXX.....................OOO..OOO.O.
+   ..OOO...................XXXXX....XXXXX.....................OOO..OOO.O.
+   ..OOO..OOOOOOOOOOOOOOO........O..XXXXX..OOOOOOOOOOOOOOOOO..OOO..OO.O..
+   ..OOO..OOOOOOOOOOOOOOO........O..XXXXX..OOOOOOOOOOOOOOOOO..OOO..OO.O..
+   ..OOO..OOOOOOOOOOOOOOOOOOOOOOO..XXXXX..OOOOOOOOOOOOOOOOOO..OOO..OOO.O.
+   ..OOO..OOOOOOOOOOOOOOOOOOOOOOO..XXXXX..OOOOOOOOOOOOOOOOOO..OOO..OOO.O.
+   ..OOO..OOOOOOOOOOOOOOOOO...O..XXXXX..OO...OOOOOOOOOOOOOOO..OOO..OO.O..
+   ..OOO..OOOOOOOOOOOOOOOOO...O..XXXXX..OO...OOOOOOOOOOOOOOO..OOO..OO.O..
+   ..OOO..OOOOOOOOOOOOOOOO......XXXXX.......OOOOOOOOOOOOOOOO..OOO..O.O.. 
+   ..OOO..OOOOOOOOOOOOOOOO......XXXXX.......OOOOOOOOOOOOOOOO..OOO..O.O.. 
+   ..OOO..OOOOOOOOOOOOOOOOOOO..XXXXX..OOOOOOOOOOOOOOOOOOOOOO..OOO..OO..  
+   ..OOO..OOOOOOOOOOOOOOOOOOO..XXXXX..OOOOOOOOOOOOOOOOOOOOOO..OOO..OO..  
+   ..OOO..OOOOOOOOOOOOOOOOOOOO.......OOOOOOOOOOOOOOOOOOOOOOO..OOO..O..   
+   ..OOO..OOOOOOOOOOOOOOOOOOOO.......OOOOOOOOOOOOOOOOOOOOOOO..OOO..O..   
+   ..OOO.......................XXXXX..........................OOO....    
+   ..OOO.......................XXXXX..........................OOO....    
+   ..OOOOOOOOOOOOOOOOOOOOOOOOO.......OOOOOOOOOOOOOOOOOOOOOOOOOOOO...     
+   ..OOOOOOOOOOOOOOOOOOOOOOOOO.......OOOOOOOOOOOOOOOOOOOOOOOOOOOO...     
+   ................................................................      
+   ................................................................      
+  
+  
+  
+                          OO         O
+                         OO         OO
+                        OO   OOOO  OOOOO  OOOO
+                       OO   OO  OO  OO   OO  OO
+                      OO    OOOOO   OO   OO
+                     OO     OO      OO O OO  OO
+                    OO       OOOO    OO   OOOO
+                                                                         
+                                                                         
+                                                                         
+                                                                         
+                                                                         
+                                                                         

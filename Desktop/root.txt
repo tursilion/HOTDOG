@@ -1,0 +1,84 @@
+doubleClickMessage
+['hotdog' 'dir' '/']|runCommandInBackground
+
+palette
+b #000000
+. #ffffff
+
+highlightedPalette
+. #000000
+b #ffffff
+
+pixels
+                                              bbbbbbbbbbbbbb          
+                                              bbbbbbbbbbbbbb          
+                                            bbbb..........bbbb        
+                                            bbbb..........bbbb        
+                        bbbbbbbbbbbbbb  bbbbbb..............bbbbbb    
+                        bbbbbbbbbbbbbb  bbbbbb..............bbbbbb    
+                      bbbb..........bbbb........................bb    
+                      bbbb..........bbbb........................bb    
+                  bbbbbb..............bbbbbbbbbbbbbbbbbbbbbbbb..bbbbbb
+                  bbbbbb..............bbbbbbbbbbbbbbbbbbbbbbbb..bbbbbb
+                  bb........................................bb..bb..bb
+                  bb........................................bb..bb..bb
+              bbbbbbbbbbbbbbbbbb..bbbbbbbbbbbbbb..bbbbbbbb..bb....bbbb
+              bbbbbbbbbbbbbbbbbb..bbbbbbbbbbbbbb..bbbbbbbb..bb....bbbb
+              bb................bbbb..........bbbb......bb..bb..bbbbbb
+              bb................bbbb..........bbbb......bb..bb..bbbbbb
+          bbbbbbbbbbbbbbbbbbbbbbbb..............bbbbbb..bb....bbbb..bb
+          bbbbbbbbbbbbbbbbbbbbbbbb..............bbbbbb..bb....bbbb..bb
+          bb........................................bb..bb..bbbb....bb
+          bb........................................bb..bb..bbbb....bb
+      bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb......bbbb......bb
+      bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb......bbbb......bb
+      bb..........................................bb....bbbb......bbbb
+      bb..........................................bb....bbbb......bbbb
+      bb................bb........................bb..bbbb......bb..bb
+      bb...............bb.........................bb..bbbb......bb..bb
+      bb..............bb..........................bbbbbb......bb....bb
+      bb.............bb...........................bbbbbb......bb....bb
+      bb............bb............................bbbb......bb....bbbb
+      bb...........bb.............................bbbb......bb....bbbb
+      bb..........bb..............................bb......bb....bb..bb
+      bb.........bb...............................bb......bb....bb..bb
+      bb........bb................................bb....bb....bb....bb
+      bb..........................................bb....bb....bb....bb
+      bb..........................................bb..bb....bb......bb
+      bb..........................................bb..bb....bb......bb
+      bb............bbbbbbbbbbbbbbbb..............bbbb....bb......bbbb
+      bb............bbbbbbbbbbbbbbbb..............bbbb....bb......bbbb
+      bb............bb............bb..............bb....bb......bbbb..
+      bb............bb............bb..............bb....bb......bbbb..
+      bb............bb............bb..............bb..bb......bbbb..  
+      bb............bb............bb..............bb..bb......bbbb..  
+      bb............bbbbbbbbbbbbbbbb..............bbbb......bbbb..    
+      bb............bbbbbbbbbbbbbbbb..............bbbb......bbbb..    
+      bb..........................................bb......bbbb..      
+      bb..........................................bb......bbbb..      
+      bb..........................................bb....bbbb..        
+      bb..........................................bb....bbbb..        
+      bb..........bbbb..........bbbb..............bb..bbbb..          
+      bb..........bbbb..........bbbb..............bb..bbbb..          
+      bb........bbbbbbbbbbbbbbbbbb................bbbbbb..            
+      bb........bbbbbbbbbbbbbbbbbb................bbbbbb..            
+      bb..........................................bbbb..              
+      bb..........................................bbbb..              
+      bb..........................................bb..                
+      bb..........................................bb..                
+      bb..........................................bb                  
+      bb..........................................bb                  
+      bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                  
+      bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb                  
+                                                                      
+                                                                      
+                                                                      
+                              ..                                                      
+                             ..                                                       
+                            ..
+                           ..
+                          ..
+                         ..
+                        ..
+                       ..
+                      ..

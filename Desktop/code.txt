@@ -1,0 +1,40 @@
+doubleClickMessage
+[ 'code' ]|runCommandInBackground
+
+palette
+. #000000
+o #ffffff
+, #0055aa
+
+highlightedPalette
+. #ffffff
+o #000000
+, #0055aa
+
+pixels
+                                              ..oo.     
+                                            ..ooooo. 
+                                          ..ooo..ooo. 
+                                        ..ooo..,,,ooo. 
+                        ..ooo.        ..ooo..,,,,,,ooo. 
+                       .oo..ooo.    ..ooo..,,,,,,,,ooo. 
+                      .oo,,,..ooo...ooo..,,,,,,,,,,ooo. 
+                      .o,,,,,..ooo..o..,,,,,,,,,,,,ooo. 
+                      .oo,,,,,.o..ooo..,,,,,,,,,,,,ooo. 
+                      .oo,,,..ooo...ooo..,,,,,,,,,,ooo. 
+                       .oo..ooo.    ..ooo..,,,,,,,,ooo. 
+                        ..oo.         ..ooo..,,,,,,ooo. 
+                                        ..ooo..,,,ooo. 
+                                          ..ooo..ooo. 
+                                            ..ooooo. 
+                                              ..oo. 
+              
+                
+                
+                        oooo              ooo   
+                       oo  oo              oo    
+                       oo       oooo     oooo   oooo
+                       oo      oo  oo  oo  oo  oo  oo    
+                       oo      oo  oo  oo  oo  oooooo  
+                       oo  oo  oo  oo  oo  oo  oo  
+                        oooo    oooo    ooooo   oooo 

@@ -2,7 +2,7 @@
 
 use strict;
 
-my $LIBOBJC = '/usr/lib/gcc/x86_64-linux-gnu/9/libobjc.a';
+my $LIBOBJC = '/usr/lib/gcc/x86_64-linux-gnu/7/libobjc.a';
 my $uname = `uname -a`;
 
 sub getExecPath

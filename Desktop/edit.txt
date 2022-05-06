@@ -1,0 +1,62 @@
+doubleClickMessage
+['gedit']|runCommandInBackground
+
+palette
+b #FFFFFF
+. #000022
+X #0055AA
+o #FFFFFF
+
+pixels
+            ..............................          
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbb          
+            ..oooooooooooooooooooooooo..oo..        
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb        
+            ..oooooooooooooooooooooooo..oooo..      
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb      
+            ..oooooooooooooooooooooooo..oooooo..    
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb    
+            ..ooo.........oooooooooooo..oooooooo..  
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb  
+            ..oooooooooooooooooooooooo..............
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..ooo.........oooooooooooooooooooooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..oooooooooooooooooooooooooooooooooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..oooooooooooooooooooooooooooooooooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..ooooooo....o..........oo.......ooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..oooooooooooooooooooooooooooooooooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..ooo..o........o................ooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..oooooooooooooooooooooooooooooooooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..ooo....................o.......ooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..oooooooooooooooooooooooooooooooooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..oooooooooooooooooooooooooooooooooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..ooooooooooooooooooooo..........ooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..oooooooooooooooooooooooooooooooooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ..oooooooooooooooooooooooooooooooooooo..
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+            ........................................
+            bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+              
+              
+              
+                                 ooo   oo    o
+                                  oo        oo
+                 oooo   oooo   ooooo  ooo  ooooo
+                oo  oo oo  oo oo  oo   oo   oo
+                oo  oo oooooo oo  oo   oo   oo
+                 ooooo oo     oo  oo   oo   oo o
+                    oo  oooo   ooooo  oooo   oo
+                 oooo
+            

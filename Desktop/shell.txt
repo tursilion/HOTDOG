@@ -1,0 +1,64 @@
+doubleClickMessage
+[ 'hotdog-xterm.sh' ]|runCommandInBackground
+
+palette
+b #000000
+. #000022
+* #ff8800
+X #0055aa
+o #ffffff
+
+highlightedPalette
+b #000000
+o #000022
+X #ff8800
+* #0055aa
+. #ffffff
+
+pixels
+          .....................................................
+          .....................................................
+          .ooooooooooooooooooooooooooooooooooooXoooooXoooooXo..
+          .ooooooooooooooooooooooooooooooooooooXoooooXoooooXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXoooooXoooooXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXoooooXoooooXo..
+          .ooooooooooooooooooooooooooooooooooooXoooooXoooooXo..
+          .ooooooooooooooooooooooooooooooooooooXoooooXoooooXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXooXXXXooXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXooXXXXooXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXoooXXXXXooXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXoooXXXXXooXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXooXXXXXXooXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXooXXXXXXooXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXooXXXXXooXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXooXXXXXooXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXooooXXXooXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXooooXXXooXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXooooo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXooooo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXoXXXo..
+          .oXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXoXXXo..
+          .oooooooooooooooooooooooooooooooooooooooooooooooooo..
+          .oooooooooooooooooooooooooooooooooooooooooooooooooo..
+          .....................................................
+          .....................................................
+            
+            
+            
+                     oooo  ooo            ooo   ooo
+                    oo  oo  oo             oo    oo
+                    ooo     oo oo   oooo   oo    oo
+                     ooo    ooo oo oo  oo  oo    oo
+                       ooo  oo  oo oooooo  oo    oo
+                    oo  oo  oo  oo oo      oo    oo
+                     oooo  ooo  oo  oooo  oooo  oooo
