@@ -6,6 +6,11 @@ b #000022
 . #FF8800
 o #ffffff
 
+highlightedPalette
+b #FFFF22
+. #FF8800
+o #000000
+
 pixels
                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb            
                bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb            

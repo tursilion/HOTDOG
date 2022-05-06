@@ -4,8 +4,12 @@ doubleClickMessage
 palette
 b #FFFFFF
 . #000022
-X #0055AA
 o #FFFFFF
+
+highlightedPalette
+b #000000
+. #FFFF22
+o #000000
 
 pixels
             ..............................          

@@ -2,11 +2,14 @@ doubleClickMessage
 ['hotdog' 'dir' '/etc']|runCommandInBackground
 
 palette
-b #000000
 . #000022
 X #ff8800
-* #0055aa
 O #ffffff
+
+highlightedPalette
+. #FFFF22
+X #ff8800
+O #000000
 
 pixels
               ...........................................................
